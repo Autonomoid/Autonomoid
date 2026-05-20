@@ -1,4 +1,4 @@
-## Hi there 👋
+I like to create tools that automate security operations, purple teaming, and adversary simulation.  
 
 <!--
 **Autonomoid/Autonomoid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
